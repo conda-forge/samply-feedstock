@@ -20,7 +20,3 @@ rust_compiler:
 - rust
 target_platform:
 - osx-arm64
-
-CONDA_BUILD_SYSROOT:
-- /Users/tdejager/development/samply-feedstock/SDKs/MacOSX11.0.sdk
-
